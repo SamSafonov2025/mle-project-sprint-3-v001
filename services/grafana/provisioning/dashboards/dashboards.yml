@@ -1,0 +1,11 @@
+apiVersion: 1
+
+providers:
+  - name: Sprint 3 dashboards
+    orgId: 1
+    folder: Yandex Practicum
+    type: file
+    disableDeletion: false
+    editable: true
+    options:
+      path: /var/lib/grafana/dashboards
